@@ -1,3 +1,6 @@
+
+// Anotações Aqui
+
 if (instance_exists(oPlayer) && distance_to_object(oPlayer) < distance_to_player)
 {
     target_x = oPlayer.x;
