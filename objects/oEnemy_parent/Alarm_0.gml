@@ -8,8 +8,8 @@ if (instance_exists(oPlayer) && distance_to_object(oPlayer) < distance_to_player
 }
 else 
 {
-    target_x = random_range(xstart - 100, xstart + 100);
-    target_y = random_range(ystart - 100, ystart + 100);
+    target_x = random_range(xstart - 50, xstart + 50);
+    target_y = random_range(ystart - 50, ystart + 50);
 }
 
 alarm[0] = 60;
