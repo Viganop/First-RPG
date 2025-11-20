@@ -4,7 +4,11 @@
   "eventList":[],
   "managed":true,
   "name":"oEnemy2",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemy_parent","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"propertyId":{"name":"hp","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"6",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemy_parent","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"propertyId":{"name":"damage","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemy_parent","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"propertyId":{"name":"xp_value","path":"objects/oEnemy_parent/oEnemy_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"60",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
